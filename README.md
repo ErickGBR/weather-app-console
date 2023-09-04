@@ -2,6 +2,7 @@
 console application to check weather of place, with open Weather and Mapbox in JS
 
 > init the proyect with
+
  ``` npm install ```
 
 When finish to install the proyect, you can run with
