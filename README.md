@@ -13,10 +13,7 @@ You can search places to get weather information and can see History of searches
 
 i use for Development
 
-> inquirer
-
-> Node.js
-
-> Open Weather
-
-> Mapbox
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png) inquirer
+Node.js
+Open Weather
+Mapbox
