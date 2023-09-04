@@ -1,7 +1,7 @@
 # Weather-app-console
 console application to check weather of place, with open Weather and Mapbox in JS
 
-> init the proyect with
+init the proyect with
 
  ``` npm install ```
 
