@@ -1,4 +1,4 @@
-# Weather-app-console
+# Weather-console-app
 console application to check weather of place, with open Weather and Mapbox in JS
 
 init the proyect with
