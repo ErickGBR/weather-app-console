@@ -12,7 +12,11 @@ When finish to install the proyect, you can run with
 You can search places to get weather information and can see History of searches
 
 i use for Development
+
 > inquirer
+
 > Node.js
+
 > Open Weather
+
 > Mapbox
